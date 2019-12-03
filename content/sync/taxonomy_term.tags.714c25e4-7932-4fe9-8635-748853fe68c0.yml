@@ -1,0 +1,41 @@
+uuid:
+  -
+    value: 714c25e4-7932-4fe9-8635-748853fe68c0
+langcode:
+  -
+    value: fr
+vid:
+  -
+    target_id: tags
+    target_type: taxonomy_vocabulary
+    target_uuid: 14520943-b7b0-453e-9b1a-75e7a2788ba3
+revision_created:
+  -
+    value: '2019-09-21T06:38:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 78fc5ffe-4488-482a-9e5a-c4d93fe2ba83
+revision_log_message:
+  -
+    value: "Aliquam minim refero scisco tamen. Abbas appellatio caecus consectetuer gemino importunus lobortis magna nimis nutus. Aliquip dolore huic ideo nostrud paratus quadrum voco. Conventio eum exerci exputo feugiat pagus ratis ulciscor valetudo. Abluo comis defui gilvus lenis premo typicus velit veniam. Haero hos lucidus tamen ut. Appellatio bene et molior neque paulatim pecus tation tum zelus.\n\nGilvus luptatum plaga populus probo quibus sed similis sit tincidunt. Aliquip damnum dolor jumentum suscipit. Appellatio imputo validus. Luctus quadrum zelus. Comis iusto laoreet metuo os pagus ullamcorper. Dolore incassum nostrud nunc si vulputate. Dolus esse eum jugis secundum singularis.\n\nCausa inhibeo nibh vel. Aptent enim eros natu os refoveo sudo te vulputate wisi. Iustum lobortis natu suscipit verto. Exputo genitus jugis nimis tamen vel verto. Consequat ea eum quae tation typicus. Exerci importunus in iusto quae valetudo. Abluo acsi dolus inhibeo macto plaga quadrum. Caecus odio saepius.\n\nAdipiscing enim paratus saluto tincidunt. Distineo facilisi loquor natu pala pecus. Acsi letalis modo natu neque plaga quae. At dolor exputo. Aliquip capto ideo immitto iustum pagus paulatim quadrum valde vindico.\n\nCaecus hos olim patria si. Acsi aliquam illum jumentum luptatum quis utrum. At comis conventio in nibh saluto vicis. Abbas conventio hos melior nostrud odio tum. Conventio cui ideo metuo mos odio suscipere voco.\n\nDefui jugis occuro refero saluto sit. Bene defui hos imputo pneum praemitto sed wisi. Autem minim pecus quidne suscipere. Melior obruo suscipit tincidunt vero. Exerci iaceo incassum jumentum melior nobis validus. Abigo aliquip caecus damnum ea erat luptatum occuro premo. Commoveo et minim qui refero sed. Amet consequat erat eros et persto vulputate.\n\nDistineo dolore magna nulla tincidunt valetudo vel wisi. Capto eu exputo molior roto usitas uxor veniam venio virtus. Blandit causa modo quadrum valetudo. Elit iusto suscipit. Distineo facilisis huic neo. Abico comis eum facilisis iustum loquor olim pala volutpat.\n\nNostrud refoveo ulciscor. Exputo facilisis iriure luptatum minim molior quidem usitas valde vulpes. Comis dignissim eum exputo jus lobortis neque nimis virtus zelus. Accumsan nobis venio.\n\nAliquam imputo iusto persto. Accumsan genitus ratis refoveo saluto velit veniam. Abico commoveo dignissim quidne. Augue bene camur diam dolus lucidus ludus singularis. Causa iaceo patria secundum suscipit utrum virtus. Commodo euismod ex exerci laoreet tego. Brevitas dolor fere huic ille paulatim quadrum saepius. Autem iaceo neque quia tincidunt venio wisi.\n\nConsequat jugis letalis saluto scisco. Accumsan commoveo ludus qui. Comis quia scisco. At gilvus interdico jus scisco sudo. Humo interdico nostrud olim pala pertineo. Diam esca gravis turpis. At brevitas luptatum pala valde validus.\n\nCommodo consequat iaceo immitto nisl sit torqueo. Commodo nunc pagus quidem quis veniam. Abbas accumsan defui diam ideo in olim roto si. Abbas aliquam commoveo interdico. Blandit esse minim odio oppeto quis ullamcorper utinam. Comis erat euismod natu nunc te. Abbas ex patria tation tum typicus. Ideo vindico voco. Consequat ea nobis usitas vel. Abluo amet distineo importunus pala praesent qui tego.\n\nAbbas abdo accumsan caecus mauris nostrud paratus qui refero turpis. Defui fere imputo loquor qui sino voco. Abdo erat hendrerit lenis neo nostrud rusticus saepius verto. Abigo ea feugiat hendrerit torqueo valetudo venio vero. Antehabeo distineo eligo in probo torqueo turpis.\n\n"
+status: {  }
+name: {  }
+description: {  }
+weight: {  }
+parent:
+  -
+    target_id: 0
+changed: {  }
+default_langcode: {  }
+revision_translation_affected: {  }
+path:
+  -
+    alias: /cogo-obruo-tum-vulputate.
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies:
+    user:
+      - user.user.78fc5ffe-4488-482a-9e5a-c4d93fe2ba83

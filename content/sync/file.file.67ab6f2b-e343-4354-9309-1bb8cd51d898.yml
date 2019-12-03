@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 67ab6f2b-e343-4354-9309-1bb8cd51d898
+langcode:
+  -
+    value: fr
+uid:
+  -
+    target_type: user
+    target_uuid: a3e05de8-f2cd-46f1-8378-d61a709de90f
+filename:
+  -
+    value: generateImage_C0Y6Zn.jpg
+uri:
+  -
+    value: 'public://2019-11/generateImage_C0Y6Zn.jpg'
+    url: /project_composer/web/sites/default/files/2019-11/generateImage_C0Y6Zn.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 4006
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-11-05T14:45:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-11-05T14:45:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a3e05de8-f2cd-46f1-8378-d61a709de90f

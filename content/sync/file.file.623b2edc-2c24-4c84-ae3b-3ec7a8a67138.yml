@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 623b2edc-2c24-4c84-ae3b-3ec7a8a67138
+langcode:
+  -
+    value: fr
+uid:
+  -
+    target_type: user
+    target_uuid: a3e05de8-f2cd-46f1-8378-d61a709de90f
+filename:
+  -
+    value: generateImage_sRIp3w.jpeg
+uri:
+  -
+    value: 'public://2019-11/generateImage_sRIp3w.jpeg'
+    url: /project_composer/web/sites/default/files/2019-11/generateImage_sRIp3w.jpeg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 8296
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-11-05T14:45:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-11-05T14:45:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a3e05de8-f2cd-46f1-8378-d61a709de90f

@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 468ca33b-b72a-4416-8887-81094eb5707b
+langcode:
+  -
+    value: fr
+uid:
+  -
+    target_type: user
+    target_uuid: a3e05de8-f2cd-46f1-8378-d61a709de90f
+filename:
+  -
+    value: generateImage_HotZOH.jpg
+uri:
+  -
+    value: 'public://2019-11/generateImage_HotZOH.jpg'
+    url: /project_composer/web/sites/default/files/2019-11/generateImage_HotZOH.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 4855
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-11-05T14:45:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-11-05T14:45:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a3e05de8-f2cd-46f1-8378-d61a709de90f

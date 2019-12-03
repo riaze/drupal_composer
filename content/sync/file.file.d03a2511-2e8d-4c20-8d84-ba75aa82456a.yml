@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: d03a2511-2e8d-4c20-8d84-ba75aa82456a
+langcode:
+  -
+    value: fr
+uid:
+  -
+    target_type: user
+    target_uuid: a3e05de8-f2cd-46f1-8378-d61a709de90f
+filename:
+  -
+    value: generateImage_gptIQ7.jpeg
+uri:
+  -
+    value: 'public://2019-11/generateImage_gptIQ7.jpeg'
+    url: /project_composer/web/sites/default/files/2019-11/generateImage_gptIQ7.jpeg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 7825
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-11-05T14:45:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-11-05T14:45:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a3e05de8-f2cd-46f1-8378-d61a709de90f
